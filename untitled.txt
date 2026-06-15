@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Chombal Fish Stall</title>
+<style>
+body{
+margin:0;
+font-family:Arial,sans-serif;
+background:#e6f7ff;
+}
+
+header{
+background:url('https://images.unsplash.com/photo-1500375592092-40eb2168fd21');
+background-size:cover;
+background-position:center;
+height:100vh;
+color:white;
+text-align:center;
+padding-top:200px;
+}
+
+h1{
+font-size:60px;
+background:rgba(0,0,0,0.5);
+display:inline-block;
+padding:15px;
+border-radius:10px;
+}
+
+nav{
+background:#0088cc;
+padding:15px;
+text-align:center;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:20px;
+font-size:20px;
+font-weight:bold;
+}
+
+.content{
+padding:40px;
+text-align:center;
+}
+
+.content img{
+width:80%;
+border-radius:15px;
+}
+
+footer{
+background:#004466;
+color:white;
+text-align:center;
+padding:15px;
+}
+</style>
+</head>
+
+<body>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="fish.html">Fish Items</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+<header>
+<h1>CHOMBAL FISH STALL</h1>
+<h2>Fresh Seafood Direct From Fishermen</h2>
+</header>
+
+<div class="content">
+<img src="https://images.unsplash.com/photo-1516937941344-00b4e0337589">
+
+<h2>History of Chombal Harbour Fishermen</h2>
+
+<p>
+Chombal Harbour near Vatakara is known for its hardworking fishing community.
+For generations, fishermen have sailed into the Arabian Sea in traditional boats
+to bring fresh seafood to local markets. Their dedication, courage, and experience
+have made Chombal one of the trusted fishing centers in Kozhikode district.
+Today, the fishing heritage continues, providing fresh fish daily to families
+across Kerala.
+</p>
+</div>
+
+<footer>
+© Chombal Fish Stall - Edachery, Vatakara, Kozhikode
+</footer>
+
+</body>
+</html>
